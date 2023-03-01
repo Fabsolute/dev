@@ -1,3 +1,6 @@
 [submodule "elixir"]
 	path = elixir
 	url = git@github.com:Fabsolute/elixir.git
+[submodule "java"]
+	path = java
+	url = git@github.com:Fabsolute/java.git
