@@ -7,3 +7,6 @@
 [submodule "js"]
 	path = js
 	url = git@github.com:Fabsolute/js.git
+[submodule "unity"]
+	path = unity
+	url = git@github.com:Fabsolute/unity.git
