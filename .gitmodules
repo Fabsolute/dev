@@ -4,3 +4,6 @@
 [submodule "java"]
 	path = java
 	url = git@github.com:Fabsolute/java.git
+[submodule "js"]
+	path = js
+	url = git@github.com:Fabsolute/js.git
