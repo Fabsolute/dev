@@ -10,3 +10,6 @@
 [submodule "unity"]
 	path = unity
 	url = git@github.com:Fabsolute/unity.git
+[submodule "react"]
+	path = react
+	url = git@github.com:Fabsolute/react.git
